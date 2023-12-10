@@ -20,11 +20,6 @@ Get the C# Weather App up and running on your machine in a few simple steps.
 - Installation
 - Clone the repository:
 
-
-Copy code
-git clone https://github.com/your-username/weather-app-csharp.git
-Configure your API key in the app settings.
-
 ## Build and run the application.
 
 ## Usage
